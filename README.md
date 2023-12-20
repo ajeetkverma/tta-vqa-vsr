@@ -1,4 +1,6 @@
 # RealVQA-DDSR
+_This work has been Accepted for publication in CVPR 2024._
+
 RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution
 
 **The code will be released soon...**
@@ -6,7 +8,7 @@ RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurri
 ## Abstract
 
 <div style="text-align: justify">
-   Video super-resolution (VSR) involves enhancing the resolution of low-resolution (LR) videos to high-resolution (HR) ones. To address the problem of real-world VSR, most of the existing algorithms simulate real-world degradation on the synthetic training datasets and train an end-to-end deep learning algorithm. However, these methods overlook motion blur simulation, resulting in reduced performance when handling videos affected by motion blur. This paper focuses on the intricate challenge of motion-blurred VSR, aiming to simultaneously enhance resolution and address deblurring/denoising in HR videos. Our strategy involves embedding motion blur degradation within the simulation framework and integrating a unique loss function derived from the real-world VSR quality assessment (RW-VSR-QA) algorithm, combined with denoising loss. Also, to suppress the artifacts produced due to different loss functions, we propose a simple solution by integrating denoising loss in the training pipeline. Specifically, we introduce a new dataset comprising 1155 videos with subjective scores and propose a new quality assessment algorithm for RW-VSR employing standardized negative similarity loss. These videos are generated from 11 recently proposed video super-resolution algorithms. Moreover, we propose a new pipeline for the purpose of generating real-world LR videos encompassing prevalent distortions like noise, blur, downsampling, pixel binning, compression artifacts, and motion blur, alongside the RW-VSR-QA algorithm. Both the proposed RW-VSR and RW-VSR-QA algorithms exhibit superior performance compared to existing methods.
+Video super-resolution (VSR) involves enhancing the resolution of low-resolution (LR) videos to high-resolution (HR) ones. To address the problem of real-world VSR, most of the existing algorithms simulate real-world degradation on the synthetic training datasets and train an end-to-end deep learning algorithm. However, these methods overlook motion blur simulation, resulting in reduced performance when handling videos affected by motion blur. This paper focuses on the intricate challenge of motion-blurred VSR, aiming to simultaneously enhance resolution and address deblurring/denoising in HR videos. Our strategy involves embedding motion blur degradation within the simulation framework and integrating a unique loss function derived from the real-world VSR quality assessment (RW-VSR-QA) algorithm, combined with denoising loss. Also, to suppress the artifacts produced due to different loss functions, we propose a simple solution by integrating denoising loss in the training pipeline. Specifically, we introduce a new dataset comprising 1155 videos with subjective scores and propose a new quality assessment algorithm for RW-VSR employing standardized negative similarity loss. These videos are generated from 11 recently proposed video super-resolution algorithms. Moreover, we propose a new pipeline for the purpose of generating real-world LR videos encompassing prevalent distortions like noise, blur, downsampling, pixel binning, compression artifacts, and motion blur, alongside the RW-VSR-QA algorithm. Both the proposed RW-VSR and RW-VSR-QA algorithms exhibit superior performance compared to existing methods.
 </div>
 
 
@@ -50,6 +52,6 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
   author = {Verma, Ajeet K. and Mishra, Ambuj and Ahmad, Faizan S. and Thakur, Sadbhawana and Jaiswal, Sunil and Jakhetiya, Vinit},
   title = {RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={1199--1208},
+  pages={------},
   year={2024}
 }
