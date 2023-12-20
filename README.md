@@ -45,8 +45,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 ![Results Visualisation](https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/aj_ddsr_results.png)
 
 # Citation
-
-```
+'''
 @inproceedings{verma2024realvqaddsr,
   author = {Verma, Ajeet K. and Mishra, Ambuj and Thakur, Sadbhawana and Jaiswal, Sunil and Jakhetiya, Vinit},
   title = {RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution},
@@ -54,4 +53,4 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
   pages={1199--1208},
   year={2024}
 }
-```
+'''
