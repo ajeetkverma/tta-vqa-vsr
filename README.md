@@ -5,7 +5,7 @@
 
 **<h2>The code will be released soon...**
 <p>
-  <img width="460" height="300" src="https://www.jaggaer.com/app/uploads/2022/09/Jaggaer-Software-Releases-1048x640.jpg">
+  <img width="640" height="460" src="https://www.jaggaer.com/app/uploads/2022/09/Jaggaer-Software-Releases-1048x640.jpg">
 </p>
 
 
