@@ -18,9 +18,9 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 ## RealVQA-DDSR compared with [RealBasic-VSR](https://github.com/ckkelvinchan/RealBasicVSR/tree/master)
 
 <p float="left">
-  [<img width="460" height="300" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f"]
-  [<img width="460" height="300" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider2_rbvsr.png">> <a href="https://interacty.me/projects/68c7327276e9827f"]
-  [<img width="460" height="300" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider3_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f"]
+  [<img width="460" height="300" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f">]
+  [<img width="460" height="300" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider2_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f">]
+  [<img width="460" height="300" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider3_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f">]
 
 </p>
 
