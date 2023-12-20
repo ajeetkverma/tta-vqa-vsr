@@ -47,7 +47,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 # Citation
 ````
 @inproceedings{verma2024realvqaddsr,
-  author = {Verma, Ajeet K. and Mishra, Ambuj and Thakur, Sadbhawana and Jaiswal, Sunil and Jakhetiya, Vinit},
+  author = {Verma, Ajeet K. and Mishra, Ambuj and Ahmad, Faizan S. and Thakur, Sadbhawana and Jaiswal, Sunil and Jakhetiya, Vinit},
   title = {RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={1199--1208},
