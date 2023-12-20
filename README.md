@@ -21,7 +21,6 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
   <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f">
   <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider2_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f">
   <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider3_rbvsr.png"> <a href="https://interacty.me/projects/68c7327276e9827f">
-
 </p>
 
 
@@ -29,9 +28,12 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 **Samples from K|Lens Dataset:**
 ## RealVQA-DDSR compared with [SRWD](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jeelani_Expanding_Synthetic_Real-World_Degradations_for_Blind_Video_Super_Resolution_CVPRW_2023_paper.pdf)
-[<img src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png">](https://interacty.me/projects/ca92568308c4271d)
-[<img src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider2_srwd.png">](https://interacty.me/projects/ca92568308c4271d)
-[<img src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider3_srwd.png">](https://interacty.me/projects/ca92568308c4271d)
+
+<p float="left">
+  <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">
+  <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider2_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">
+  <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider3_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">
+</p>
 
 ## Visualisations from different datasets:
 ![Results Visualisation](https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/aj_ddsr_results.png)
