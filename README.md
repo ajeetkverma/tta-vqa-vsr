@@ -1,7 +1,7 @@
 # RealVQA-DDSR
 **_This work has been Accepted for publication in CVPR 2024._**
 
-<h1>[RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jeelani_Expanding_Synthetic_Real-World_Degradations_for_Blind_Video_Super_Resolution_CVPRW_2023_paper.pdf)
+<h2>[RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jeelani_Expanding_Synthetic_Real-World_Degradations_for_Blind_Video_Super_Resolution_CVPRW_2023_paper.pdf)
 
 **The code will be released soon...**
 
