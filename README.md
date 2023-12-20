@@ -3,7 +3,7 @@
 
 <h2>[RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Jeelani_Expanding_Synthetic_Real-World_Degradations_for_Blind_Video_Super_Resolution_CVPRW_2023_paper.pdf)
 
-**<h2>The code will be released soon...**
+**<h2>The code will be released soon...** \\
 <img width="460" height="300" src="https://www.jaggaer.com/app/uploads/2022/09/Jaggaer-Software-Releases-1048x640.jpg">
 
 
