@@ -1,5 +1,5 @@
 # RealVQA-DDSR
-_This work has been Accepted for publication in CVPR 2024._
+**_This work has been Accepted for publication in CVPR 2024._**
 
 RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution
 
