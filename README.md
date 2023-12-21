@@ -50,7 +50,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 # Video Demonstration
 
-| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3"> <>  | 
+| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3"> | 
 
 
 [<img width="640" height="460" src="" width="50%">](https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3)
