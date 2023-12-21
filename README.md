@@ -49,12 +49,10 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 </p>
 
 # Video Demonstration
-
-
-[](https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3)
-[](https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/30a9d3e7-0a02-410e-a3de-a58381354ff4)
-[](https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/1d7de8d2-06b8-4a3d-b379-e15415412a7c) 
-[>](https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/e51fe475-6bb4-47b0-a60d-a25ecf6f5775)
+https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3
+https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/30a9d3e7-0a02-410e-a3de-a58381354ff4
+https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/1d7de8d2-06b8-4a3d-b379-e15415412a7c 
+https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/e51fe475-6bb4-47b0-a60d-a25ecf6f5775
 
 
 
