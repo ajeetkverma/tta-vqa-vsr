@@ -51,7 +51,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 # Video Demonstration
 
 ## Demo on RealVQA-DDSR vs [DAT](https://github.com/zhengchen1999/DAT)
-<img src = "https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3" width="200">
+<img src = "https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3" width="100">
 
 ## Demo on RealVQA-DDSR vs [HAT](https://github.com/jiawangbai/HAT)
 https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/30a9d3e7-0a02-410e-a3de-a58381354ff4
