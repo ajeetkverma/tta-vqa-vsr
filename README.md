@@ -49,7 +49,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 </p>
 
 # Video Demonstration
-<img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4">
+<video width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4">
 
 
 
