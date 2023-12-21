@@ -50,9 +50,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 # Video Demonstration
 
-| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3"> <a href="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3">  | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/30a9d3e7-0a02-410e-a3de-a58381354ff4"> <a href="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/30a9d3e7-0a02-410e-a3de-a58381354ff4"> |
-| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/1d7de8d2-06b8-4a3d-b379-e15415412a7c"> <a href="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/1d7de8d2-06b8-4a3d-b379-e15415412a7c">  | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d"> |
-| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/e51fe475-6bb4-47b0-a60d-a25ecf6f5775"> <a href="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/e51fe475-6bb4-47b0-a60d-a25ecf6f5775">  |
+| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3"> <a href="https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3">  | 
 
 
 [<img width="640" height="460" src="" width="50%">](https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3)
