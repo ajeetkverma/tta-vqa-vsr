@@ -50,7 +50,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 # Video Demonstration
 
-[![Watch the video](https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video]()](https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4)
 
 [<video width="640" height="460" src="" type="video/mp4">]()
 
