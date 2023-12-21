@@ -50,7 +50,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 # Video Demonstration
 
-## Demo on RealVQA-DDSR vs 
+## Demo on RealVQA-DDSR vs [DAT](https://github.com/zhengchen1999/DAT)
 https://github.com/ajeetkverma/RealVQA-DDSR/assets/33716142/38c9f8a3-4d90-42ec-b091-c11f641132e3
 
 ## Demo on
