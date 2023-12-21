@@ -49,9 +49,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 </p>
 
 # Video Demonstration
-<video width="320" height="240" autoplay muted>
-  <source src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4" type="video/mp4">
-</video>
+ ["https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4" type="video/mp4"]()
 
 
 
