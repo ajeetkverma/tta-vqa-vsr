@@ -52,8 +52,8 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">  | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d"> |
 | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">  | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d"> |
-| ------------- | ------------- |
-|  |  |
+| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">  | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">  |
+| <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d">  | <img width="230" height="150" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/slider1_srwd.png"> <a href="https://interacty.me/projects/ca92568308c4271d"> | 
 
 
 
