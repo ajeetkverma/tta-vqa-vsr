@@ -49,6 +49,9 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 </p>
 
 # Video Demonstration
+
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
 [<video width="640" height="460" src="https://github.com/ajeetkverma/RealVQA-DDSR/blob/main/resource/ajvsr_dat_1.mp4" type="video/mp4">]()
 
 
