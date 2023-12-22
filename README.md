@@ -26,8 +26,8 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 1. Download the pre-trained weights to `checkpoints/`.
 2. Run the following scrip:
    ```
-   cd tecogan
-   bash test.sh
+   $cd ajvsr
+   $bash test.sh
    ```
    Make sure to update ```test.yml``` file for all arguments.
 
