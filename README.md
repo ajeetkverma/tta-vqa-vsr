@@ -28,7 +28,7 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
    ```
    python test.sh
    ```
-
+   Make sure to update ```test.yml``` file for all arguments.
 
 # Qualitative Results:
 **Samples from K|Lens Dataset:**
