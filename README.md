@@ -23,7 +23,11 @@ Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNnd
 
 
 # Inference
-
+1. Download the pre-trained weights to `checkpoints/`.
+2. Run the following scrip:
+   ```
+   python test.sh
+   ```
 
 
 # Qualitative Results:
