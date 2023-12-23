@@ -3,7 +3,7 @@
 
 <h2>RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution
 
-**<h2>The code will be released soon...**
+**<h2>We are working to prepare the release version of the code. It will be available soon...**
 <p>
   <img width="640" height="460" src="https://www.jaggaer.com/app/uploads/2022/09/Jaggaer-Software-Releases-1048x640.jpg">
 </p>
