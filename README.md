@@ -1,7 +1,7 @@
 # RealVQA-DDSR
-**_This work has been Accepted for publication in CVPR 2024._**
+**_This work has been submitted._**
 
-<h2>RealVQA-DDSR: Real World Video Quality Assessment assisted Joint Motion Deblurring, Denoising, and Super-Resolution
+<h2>Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution
 
 **<h2>We are working to prepare the release version of the code. It will be available soon...**
 <p>
@@ -13,7 +13,9 @@
 ## Abstract
 
 <div style="text-align: justify">
-Video super-resolution (VSR) involves enhancing the resolution of low-resolution (LR) videos to high-resolution (HR) ones. To address the problem of real-world VSR, most of the existing algorithms simulate real-world degradation on the synthetic training datasets and train an end-to-end deep learning algorithm. However, these methods overlook motion blur simulation, resulting in reduced performance when handling videos affected by motion blur. This paper focuses on the intricate challenge of motion-blurred VSR, aiming to simultaneously enhance resolution and address deblurring/denoising in HR videos. Our strategy involves embedding motion blur degradation within the simulation framework and integrating a unique loss function derived from the real-world VSR quality assessment (RW-VSR-QA) algorithm, combined with denoising loss. Also, to suppress the artifacts produced due to different loss functions, we propose a simple solution by integrating denoising loss in the training pipeline. Specifically, we introduce a new dataset comprising 1155 videos with subjective scores and propose a new quality assessment algorithm for RW-VSR employing standardized negative similarity loss. These videos are generated from 11 recently proposed video super-resolution algorithms. Moreover, we propose a new pipeline for the purpose of generating real-world LR videos encompassing prevalent distortions like noise, blur, downsampling, pixel binning, compression artifacts, and motion blur, alongside the RW-VSR-QA algorithm. Both the proposed RW-VSR and RW-VSR-QA algorithms exhibit superior performance compared to existing methods.
+Recently, several real-world video super-resolution (RW-VSR) algorithms have been introduced in the literature. These methods aim to replicate the various degradations observed in real-world low-resolution videos, such as noise, motion blur, and compression artifacts.
+Currently, the literature lacks domain-specific quality assessment methods that can effectively evaluate the perceptual quality of real-world super-resolved videos. To address this gap, we first construct a comprehensive real-world video dataset annotated with subjective quality scores. This dataset comprises 1,155 videos with diverse resolutions, content types, and contextual variations, providing a robust foundation for evaluating perceptual quality across real-world scenarios. Rather than relying on a fully
+end-to-end deep learning model, which is inherently data dependent, we propose a Test-Time Adaptation (TTA) algorithm. This innovative method utilizes auxiliary tasks, such as group contrastive loss and rank loss as objective functions, to dynamically adapt the model during inference. By doing so, it eliminates the need for large-scale video quality assessment datasets, especially when dealing with new and unknown distortions in low-resolution real-world videos, making it a more robust and adaptable approach. The proposed rank loss assumes that real-world videos are inherently noisy, and that their cleaner versions exhibit improved perceptual quality. Additionally, we propose integrating the RW-VQA algorithm with existing RW-VSR algorithms. The performance of both the proposed RW-VQA and RW-VSR algorithms surpasses that of existing state-of-the-art methods. 
 </div>
 
 
