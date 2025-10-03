@@ -23,6 +23,10 @@ end-to-end deep learning model, which is inherently data dependent, we propose a
 
 Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNndBdGs4wmsSR) and [4X](https://drive.google.com/drive/u/0/folders/1eCJdxf_g-Zg7t02mdpztVxpImf-XodBe) pretrained models.
 
+# Dataset
+
+Download [RW-VSR-QA-Dataset](https://github.com/ajeetkverma/tta-vqa-vsr)
+
 
 # Inference
 1. Download the pre-trained weights to `checkpoints/`.
