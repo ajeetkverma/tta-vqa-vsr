@@ -4,18 +4,16 @@
 <h2>Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution
 
 **<h2>We are working to prepare the release version of the code. It will be available soon...**
-<p>
-  <img width="640" height="460" src="https://www.jaggaer.com/app/uploads/2022/09/Jaggaer-Software-Releases-1048x640.jpg">
-</p>
 
 
 
 ## Abstract
 
 <div style="text-align: justify">
-Recently, several real-world video super-resolution (RW-VSR) algorithms have been introduced in the literature. These methods aim to replicate the various degradations observed in real-world low-resolution videos, such as noise, motion blur, and compression artifacts.
-Currently, the literature lacks domain-specific quality assessment methods that can effectively evaluate the perceptual quality of real-world super-resolved videos. To address this gap, we first construct a comprehensive real-world video dataset annotated with subjective quality scores. This dataset comprises 1,155 videos with diverse resolutions, content types, and contextual variations, providing a robust foundation for evaluating perceptual quality across real-world scenarios. Rather than relying on a fully
-end-to-end deep learning model, which is inherently data dependent, we propose a Test-Time Adaptation (TTA) algorithm. This innovative method utilizes auxiliary tasks, such as group contrastive loss and rank loss as objective functions, to dynamically adapt the model during inference. By doing so, it eliminates the need for large-scale video quality assessment datasets, especially when dealing with new and unknown distortions in low-resolution real-world videos, making it a more robust and adaptable approach. The proposed rank loss assumes that real-world videos are inherently noisy, and that their cleaner versions exhibit improved perceptual quality. Additionally, we propose integrating the RW-VQA algorithm with existing RW-VSR algorithms. The performance of both the proposed RW-VQA and RW-VSR algorithms surpasses that of existing state-of-the-art methods. 
+Recently, several real-world video super-resolution (RW-VSR) algorithms have addressed challenges such as noise, motion blur, and compression artifacts inherently present in low-resolution (LR) videos, which significantly impact the perceptual quality of super-resolved videos. However, there is still a considerable gap in developing domain-specific real-world video super-resolution quality assessment (RW-VSR-QA) methods that can effectively evaluate the perceptual quality of real-world super-resolved videos and seamlessly integrate into the RW-VSR pipeline to produce visually compelling high-resolution (HR) videos. To address this, we present:  
+(a) A comprehensive real-world video dataset annotated with subjective quality scores, comprising $1155$ videos with diverse resolutions and content variations. This dataset serves as a benchmark for developing RW-VSR-QA methods.  
+(b) A test-time adaptation (TTA)-based algorithm for RW-VSR-QA that dynamically adapts models during inference using auxiliary tasks like group contrastive and quality-aware rank loss, improving robustness to unknown distortions without ground truth labels. Unlike traditional deep learning models, TTA flexibly handles new distortions in real-world videos. The quality-aware rank loss assumes cleaner videos have better perceptual quality, enabling the model to learn effectively from noise patterns.
+(c) An adaptive perceptual quality loss function for RW-VSR, driven by the proposed RW-VSR-QA algorithm, which dynamically adjusts to video distortions and effectively guides RW-VSR algorithms to align with end-user expectations. 
 </div>
 
 
