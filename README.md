@@ -1,5 +1,5 @@
 # TTA-VQA-VSR
-**_This work has been submitted._**
+**_This work has been Accepted in IEEE Transactions on Artificial Intelligence._**
 
 <h2>Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution
 
