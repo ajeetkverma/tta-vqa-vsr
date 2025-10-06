@@ -19,7 +19,7 @@ Recently, several real-world video super-resolution (RW-VSR) algorithms have add
 
 # Pretrained Model
 
-Download [2X](https://drive.google.com/drive/u/0/folders/1-TM-IzzL9DqIetmdJmDNndBdGs4wmsSR) and [4X](https://drive.google.com/drive/u/0/folders/1eCJdxf_g-Zg7t02mdpztVxpImf-XodBe) pretrained models.
+Download pretrained models. (Link will be available soon)
 
 # Dataset
 
