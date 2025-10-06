@@ -23,7 +23,7 @@ Download pretrained models. (Link will be available soon)
 
 # Dataset
 Write us on "vinit.jakhetiya@iitjammu.ac.in" to obtain the dataset.
-%Download [RW-VSR-QA-Dataset](https://ieee-dataport.org/documents/rw-vqa-dataset) from IEEE-Dataport.
+
 
 
 # Inference
@@ -38,5 +38,18 @@ Write us on "vinit.jakhetiya@iitjammu.ac.in" to obtain the dataset.
 
 
 # Citation
-````
+```
+@article{verma2025realworld,
+  title={Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution},
+  author={Verma, Ajeet Kumar and Mishra, aMBUJ and Jakhetiya, Vinit and Subudhi, Badri Narayan and Jaiswal, Sunil},
+  journal={IEEE Transactions on Artificial Intelligence},
+  volume={-},
+  number={-},
+  pages={}
+  year={202},
+  publisher={IEEE}
+}
+
+```
+
 
