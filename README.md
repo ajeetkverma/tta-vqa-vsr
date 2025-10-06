@@ -27,28 +27,16 @@ Write us on "vinit.jakhetiya@iitjammu.ac.in" to obtain the dataset.
 
 
 # Inference
-1. Download the pre-trained weights to `checkpoints/`.
-2. Run the following scrip:
-   ```
-   $bash test.sh
-   ```
-   Make sure to update ```test.yml``` file for all arguments.
-3. Results will be stored in corresponding experiment ```result``` directory 
+
+
 
 
 
 # Citation
 ```
-@article{verma2025real-world,
-  title={Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution},
-  author={Verma, Ajeet Kumar and Mishra, Ambuj and Jakhetiya, Vinit and Subudhi, Badri Narayan and Jaiswal, Sunil},
-  journal={IEEE Transactions on Artificial Intelligence},
-  volume={-},
-  number={-},
-  pages={}
-  year={2025},
-  publisher={IEEE}
-}
+
+
+
 
 ```
 
