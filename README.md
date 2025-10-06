@@ -22,8 +22,8 @@ Recently, several real-world video super-resolution (RW-VSR) algorithms have add
 Download pretrained models. (Link will be available soon)
 
 # Dataset
-
-Download [RW-VSR-QA-Dataset](https://ieee-dataport.org/documents/rw-vqa-dataset) from IEEE-Dataport.
+Write us on "vinit.jakhetiya@iitjammu.ac.in" to obtain the dataset.
+%Download [RW-VSR-QA-Dataset](https://ieee-dataport.org/documents/rw-vqa-dataset) from IEEE-Dataport.
 
 
 # Inference
