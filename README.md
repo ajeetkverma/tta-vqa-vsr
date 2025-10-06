@@ -41,7 +41,7 @@ Write us on "vinit.jakhetiya@iitjammu.ac.in" to obtain the dataset.
 ```
 @article{verma2025realworld,
   title={Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution},
-  author={Verma, Ajeet Kumar and Mishra, aMBUJ and Jakhetiya, Vinit and Subudhi, Badri Narayan and Jaiswal, Sunil},
+  author={Verma, Ajeet Kumar and Mishra, Ambuj and Jakhetiya, Vinit and Subudhi, Badri Narayan and Jaiswal, Sunil},
   journal={IEEE Transactions on Artificial Intelligence},
   volume={-},
   number={-},
