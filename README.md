@@ -3,7 +3,7 @@
 
 <h2>Real-World Video Quality Assessment via Test-Time Adaptation and its application in Real-World super-resolution
 
-**<h2>We are working to prepare the release version of the code. It will be available soon...**
+**<h2>We are working to prepare the release version of the code.**
 
 
 
